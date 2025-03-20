@@ -245,7 +245,7 @@ $helpMenu.DropDownItems.Add($aboutMenuItem)
 
 $docsMenuItem = New-Object System.Windows.Forms.ToolStripMenuItem
 $docsMenuItem.Text = "Documentation"
-$docsMenuItem.Add_Click({ Start-Process "https://github.com/MoshikoKar/AD-Management-Tool/blob/main/README.md" })
+$docsMenuItem.Add_Click({ Start-Process "https://github.com/MoshikoKar/AD-Management-Tool/blob/main/README.MD" })
 $helpMenu.DropDownItems.Add($docsMenuItem)
 
 $viewMenu = New-Object System.Windows.Forms.ToolStripMenuItem
