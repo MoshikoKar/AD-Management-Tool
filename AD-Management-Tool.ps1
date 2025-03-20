@@ -1,6 +1,6 @@
 # AD Management Tool - Tabbed GUI Interface
 # This script combines User Creation, Distribution Group Management, and Contact Creation
-# Author: Claude
+# Author: Moshikokar
 # GitHub: https://github.com/MoshikoKar/AD-Management-Tool
 # Version: 1.0.0
 
