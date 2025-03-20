@@ -1,0 +1,3 @@
+FirstName,LastName,PrimaryDomain,AdditionalDomains,Description,Office,Department,JobTitle
+John,Doe,domain.com,other.com;third.com,IT Staff,Main Office,IT,Admin
+Jane,Smith,domain.com,,HR Staff,Branch Office,HR,Manager
